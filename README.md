@@ -25,9 +25,9 @@ You're going to need:
 ### Getting Set Up
 
 1. Fork this repository on GitHub.
-2. Clone *your forked repository* (not our original one) to your hard drive with `git clone https://github.com/YOURUSERNAME/slate.git`
-3. `cd slate`
-4. Initialize and start Slate. You can either do this locally, or with Vagrant:
+2. Clone *your forked repository* (not our original one) to your hard drive with `git clone https://github.com/YOURUSERNAME/syscoin-docs.git`
+3. `cd syscoin-docs`
+4. Initialize and start Syscoin-docs. You can either do this locally, or with Vagrant:
 
 ```shell
 # either run this to run locally
