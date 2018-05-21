@@ -1,4 +1,0 @@
----
-title: "Getting Syscoin"
-excerpt: ""
----

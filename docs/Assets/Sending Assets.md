@@ -1,4 +1,0 @@
----
-title: "Sending Assets"
-excerpt: ""
----

@@ -1,4 +1,0 @@
----
-title: "Syscoin Supply"
-excerpt: ""
----

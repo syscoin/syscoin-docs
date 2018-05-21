@@ -1,4 +1,0 @@
----
-title: "Offers"
-excerpt: ""
----

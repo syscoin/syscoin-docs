@@ -1,4 +1,0 @@
----
-title: "Sending Syscoin"
-excerpt: ""
----

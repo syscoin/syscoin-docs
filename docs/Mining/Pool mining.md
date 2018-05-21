@@ -1,4 +1,0 @@
----
-title: "Pool mining"
-excerpt: ""
----
