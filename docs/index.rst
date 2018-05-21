@@ -7,7 +7,6 @@ Table of Contents
 -----------------
 
 .. toctree::
+   :glob:
 
-   Aliases
-   Assets
-   Certificates
+   *
