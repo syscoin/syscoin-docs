@@ -12,4 +12,4 @@ Table of Contents
 
    assets/index
    aliases/*
-   certificates/* <Certificates>
+   Certificates <certificates/*>
