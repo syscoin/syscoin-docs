@@ -41,9 +41,9 @@ vagrant up
 You can now see the docs at http://localhost:4567. Whoa! That was fast!
 
 Contributors
---------------------
+===
 Improve these docs through pull requests to be added as a contributor.
 
 Special Thanks
---------------------
+---
 - [Slate](https://github.com/lord/slate)
