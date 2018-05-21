@@ -9,7 +9,4 @@ Table of Contents
 .. toctree::
    :glob:
 
-   Assets/*
    *
-.. contents:: Table of Contents2?
-   :depth: 2
