@@ -10,4 +10,6 @@ Table of Contents
    :glob:
    :hidden:
 
-   Assets/index
+   assets/index
+   aliases/*
+   certificates/* <Certificates>
