@@ -40,6 +40,10 @@ vagrant up
 
 You can now see the docs at http://localhost:4567. Whoa! That was fast!
 
+### Converting OpenAPI to Markdown
+
+For converting OpenAPI specs to Markdown the excellent [Widdershins](https://github.com/mermade/widdershins) converter is suggested. The output should be saved to `source/index.html.md`.
+
 Contributors
 ===
 Improve these docs through pull requests to be added as a contributor.
