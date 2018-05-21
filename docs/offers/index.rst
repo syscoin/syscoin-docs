@@ -1,4 +1,4 @@
-Account Management
+Offers
 -----------------
 
 .. toctree::

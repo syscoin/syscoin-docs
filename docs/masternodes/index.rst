@@ -1,4 +1,4 @@
-Account Management
+Masternodes
 -----------------
 
 .. toctree::

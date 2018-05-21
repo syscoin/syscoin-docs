@@ -1,4 +1,4 @@
-Account Management
+The Syscoin Network
 -----------------
 
 .. toctree::
