@@ -1,10 +1,9 @@
-R2 Tutorials: |version|
+Syscoin Docs: |version|
 ====================
 
-These are the tutorials for R2; a biologist friendly, web based genomics analysis and visualization application developed by Jan Koster at the department of Oncogenomics in the Academic Medical Center (AMC) Amsterdam, the Netherlands.
-For citations, please include the following webcite: 'R2: Genomics Analysis and Visualization Platform (http://r2.amc.nl http://r2platform.com)'
+This is some intro text
 
-Copyright (c) 2006-2016 Jan Koster
+Copyright (c) 2014-2018 Syscoin Team
 
 .. toctree::
    :maxdepth: 2
@@ -31,6 +30,8 @@ Copyright (c) 2006-2016 Jan Koster
    Integrative_analysis_ChIP-Seq_data
    Integrative_analysis_expression_methylation
    Integrative_analysis_WGS_data
-   Adapting_R2
    Exporting_Data
-   R2_Dataset_Addition
+   
+   
+..   
+   
