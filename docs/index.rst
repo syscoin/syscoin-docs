@@ -9,4 +9,5 @@ Table of Contents
 .. toctree::
    :glob:
 
+   Assets/*
    *
