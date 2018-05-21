@@ -8,5 +8,6 @@ Table of Contents
 
 .. toctree::
    :glob:
+   :hidden:
 
    Assets/index
