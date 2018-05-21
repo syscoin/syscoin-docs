@@ -11,5 +11,5 @@ Table of Contents
    :hidden:
 
    assets/index
-   Aliases Title <aliases/*>
-   Certificates <certificates/*>
+   aliases/index
+   certificates/index

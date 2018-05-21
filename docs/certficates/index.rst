@@ -1,0 +1,7 @@
+Certificates
+-----------------
+
+.. toctree::
+   :glob:
+
+   *
