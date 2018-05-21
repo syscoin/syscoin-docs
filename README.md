@@ -1,5 +1,5 @@
 Syscoin Documentation
-------------
+===
 
 This repository contains two different kinds of documentation- **[API documentation](https://syscoin.github.io/syscoin-docs/)** for the [Syscoin API](https://github.com/syscoin/syscoin-api) and [Syscoin Core](https://github.com/syscoin/syscoin) as well as **[reference documentation](https://syscoin.readthedocs.io/en/latest/)** for [Syscoin Core](https://github.com/syscoin/syscoin). 
 
@@ -12,7 +12,7 @@ This repository contains two different kinds of documentation- **[API documentat
 The API docs are generated from the OpenAPI specification defined in [Syscoin API](https://github.com/syscoin/syscoin-api). The [Syscoin API](https://github.com/syscoin/syscoin-api) project is a Node/Express layer for interacting with [Syscoin Core](https://github.com/syscoin/syscoin) using REST. The same APIs are available via [Syscoin Core](https://github.com/syscoin/syscoin) directly using the built in [RPC Server](https://en.bitcoin.it/wiki/API_reference_%28JSON-RPC%29#JSON-RPC).
 
 Building API Docs Locally
---
+===
 
 ### Prerequisites
 
